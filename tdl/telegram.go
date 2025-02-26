@@ -20,7 +20,7 @@ import (
 var zh2enMap map[string]string
 
 const (
-	MaxRetries = 3 // 最大重试次数
+	MaxRetries = 1 // 最大重试次数
 )
 
 func init() {
