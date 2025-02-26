@@ -36,6 +36,7 @@ func init() {
 		panic("缺少必要的软件依赖：ffmpeg 或 mediainfo 未安装")
 	}
 }
+
 func Archive() {
 	p := constant.GetParams()
 	files, _ := GetAllFiles(p.GetMainFolder())
