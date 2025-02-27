@@ -55,7 +55,7 @@
 
 |原名|中文可能的说法|
 |:---:|:---:|
-|NieR|NIER nier Nier|
+|NieR|尼尔;尼尔机械纪元|
 |2B|2b|
 
 # 三国无双
@@ -123,3 +123,11 @@
 |Triss Merigold|triss;Triss;特里丝;特里斯|
 |Cirilla Fiona Elen Riannon|ciri;Ciri|
 |Yennefer of Vengerberg|yennefer;Yennefer;叶奈法|
+
+# 街霸
+
+|原名|中文可能的说法|
+|:---:|:---:|
+|StreetFighter|街霸;街头霸王|
+|Cammy|嘉米|
+|ChunLi|春丽|
