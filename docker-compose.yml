@@ -9,8 +9,8 @@ services:
             - /Users/zen/github/FastTdl:/data # 网址列表和下载目录
         environment:
             - TDL=/data
-            - PROXY=http://192.168.1.18:8889 # 代理
-            - MYSQL_HOST=192.168.1.18 # mysql地址
+            - PROXY=http://192.168.2.8:8889 # 代理
+            - MYSQL_HOST=192.168.2.5 # mysql地址
             - MYSQL_PORT=3306 # mysql端口
             - MYSQL_USER=root # mysql用户名
             - MYSQL_PASS=163453 # mysql密码
