@@ -131,3 +131,10 @@
 |StreetFighter|街霸;街头霸王|
 |Cammy|嘉米|
 |ChunLi|春丽|
+
+# 恶魔战士
+
+|原名|中文可能的说法|
+|:---:|:---:|
+|Darkstalkers|恶魔战士|
+|Morrigan|莫莉卡|
