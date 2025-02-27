@@ -5,7 +5,7 @@
 |Resident Evil|恶灵古堡;生化危机|
 |Ada Wong|艾达·王;艾达王;王阿姨|
 |Sheva Alomar|雪瓦·阿洛马;雪瓦;谢娃|
-|Lady Dimitrescu|吸血鬼夫人;蒂米特雷斯库夫人;蒂米特雷斯库;迪米特雷斯库|
+|Lady Dimitrescu|蒂米特雷斯库;迪米特雷斯库|
 |Ashley Graham |Ashley;碍事梨;阿什利|
 
 # 死或生
@@ -30,16 +30,16 @@
 |Final Fantasy|最终幻想|
 |Gentiana|根蒂亚娜|
 |Scarlet|思嘉莱特;斯卡蕾特|
-|Oerba Dia Vanille|欧尔芭·迪亚·香草;香草;瓦尼尔;vanille|
-|Iris Amicitia|伊莉丝·阿米西提亚;伊莉丝|
-|Lunafreya Nox Fleuret|露娜芙蕾亚·诺克斯·芙洛雷;露娜|
+|Oerba Dia Vanille|香草;瓦尼尔;Vanille;vanille|
+|Iris Amicitia|伊莉丝|
+|Lunafreya Nox Fleuret|露娜;Luna;luna|
 |Vanille|香草|
 |Na'Oh|娜瑶|
 |Jihl Nabaat|吉尔·娜巴特;吉尔娜巴特|
 |Jessie`s Mom|杰西妈妈;杰西的妈妈|
 |Tifa Lockhart|蒂法;Tifa;tifa|
 |Aerith Gainsborough|爱丽丝;Aerith;alice|
-|Anabella Rosfield|安娜贝拉·罗兹菲尔德;安娜贝拉|
+|Anabella Rosfield|安娜贝拉|
 |Jessie Rasberry|Jessie;jessie;杰西|
 |Yuffie Kisaragi|尤菲|
 
@@ -55,7 +55,7 @@
 
 |原名|中文可能的说法|
 |:---:|:---:|
-|NieR|尼尔;尼尔机械纪元|
+|NieR|尼尔|
 |2B|2b|
 
 # 三国无双
@@ -99,7 +99,7 @@
 |原名|中文可能的说法|
 |:---:|:---:|
 |The Incredibles|超人总动员|
-|Helen Parr|海伦·帕尔;弹力女超人;海伦;Helen;helen|
+|Helen Parr|弹力女超人;海伦;Helen;helen|
 |Violet Parr|紫罗兰·帕尔;Violet;violet|
 
 # 守望先锋
@@ -107,7 +107,7 @@
 |原名|中文可能的说法|
 |:---:|:---:|
 |Overwatch|守望先锋;overwatch|
-|Mercy|天使;mercy;Angela Ziegle|
+|Mercy|天使;mercy|
 
 # 间谍过家家
 
