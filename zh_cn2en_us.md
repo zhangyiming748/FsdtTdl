@@ -120,7 +120,7 @@
 |原名|中文可能的说法|
 |:---:|:---:|
 |The Witcher|巫师|
-|Triss Merigold|triss;Triss;特里丝;特里斯|
+|Triss Merigold|特里丝;特里斯;triss;Triss|
 |Cirilla Fiona Elen Riannon|ciri;Ciri|
 |Yennefer of Vengerberg|yennefer;Yennefer;叶奈法|
 
