@@ -7,13 +7,14 @@
 |Sheva Alomar|雪瓦·阿洛马;雪瓦|
 |Lady Dimitrescu|吸血鬼夫人;蒂米特雷斯库夫人;蒂米特雷斯库;迪米特雷斯库|
 |Ashley Graham |Ashley;碍事梨;阿什利|
+
 # 死或生
 
 |原名|中文可能的说法|
 |:---:|:---:|
 |Dead or Alive|死或生;DOA;doa|
 |Honoka|穗香|
-|Marie Rose|玛丽·萝丝;玛丽萝丝;Marie;玛丽|
+|Marie Rose|玛丽·萝丝;玛丽萝丝|
 |Ayane|绫音;凌音;铃音|
 |Tamaki|环|
 |Kasumi|霞|
@@ -112,3 +113,11 @@
 |原名|中文可能的说法|
 |:---:|:---:|
 |SPY×FAMILY|间谍过家家|
+
+# 巫师
+
+|原名|中文可能的说法|
+|:---:|:---:|
+|Triss Merigold|triss;Triss;特里丝|
+|Cirilla Fiona Elen Riannon|ciri;Ciri|
+|Yennefer of Vengerberg|yennefer;Yennefer;叶奈法|
