@@ -4,7 +4,7 @@
 |:---:|:---:|
 |Resident Evil|恶灵古堡;生化危机|
 |Ada Wong|艾达·王;艾达王;王阿姨|
-|Sheva Alomar|雪瓦·阿洛马;雪瓦|
+|Sheva Alomar|雪瓦·阿洛马;雪瓦;谢娃|
 |Lady Dimitrescu|吸血鬼夫人;蒂米特雷斯库夫人;蒂米特雷斯库;迪米特雷斯库|
 |Ashley Graham |Ashley;碍事梨;阿什利|
 

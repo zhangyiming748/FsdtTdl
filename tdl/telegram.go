@@ -268,8 +268,10 @@ func replace(src string) string {
 	}
 	return src
 }
+
 func zh2en(fp string) map[string]string {
 	result := make(map[string]string)
+	seen := make(map[string]bool)  // 用于记录已经处理过的key
 	content, err := os.ReadFile(fp)
 	if err != nil {
 		log.Printf("读取文件失败: %v\n", err)
@@ -278,14 +280,12 @@ func zh2en(fp string) map[string]string {
 	lines := strings.Split(string(content), "\n")
 
 	for _, line := range lines {
-		// 跳过空行、标题行和分隔符行
 		if line == "" || strings.HasPrefix(line, "#") || !strings.Contains(line, "|") || strings.Contains(line, ":---:") {
 			continue
 		}
 
-		// 分割每一行
 		parts := strings.Split(line, "|")
-		if len(parts) != 4 { // 格式应该是 |原名|中文说法|
+		if len(parts) != 4 {
 			continue
 		}
 
@@ -295,10 +295,11 @@ func zh2en(fp string) map[string]string {
 			continue
 		}
 
-		// 处理多个中文翻译的情况（用分号分隔）
 		for _, trans := range strings.Split(translations, ";") {
-			if trans != "" {
-				result[strings.TrimSpace(trans)] = original
+			trans = strings.TrimSpace(trans)
+			if trans != "" && !seen[trans] {  // 只处理未见过的key
+				result[trans] = original
+				seen[trans] = true  // 标记该key已处理
 			}
 		}
 	}
