@@ -138,3 +138,10 @@
 |:---:|:---:|
 |Darkstalkers|恶魔战士|
 |Morrigan|莫莉卡|
+
+# 合金装备
+
+|原名|中文可能的说法|
+|:---:|:---:|
+|MetalGear|合金装备;MGS;mgs|
+|Quiet|静静;quiet|
