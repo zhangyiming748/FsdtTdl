@@ -72,8 +72,8 @@ func initFfmpeg() {
 const (
 	DEFAULT_MYSQL_USER     = "root"
 	DEFAULT_MYSQL_PASSWORD = "163453"
-	DEFAULT_MYSQL_HOST     = "192.168.1.18"
-	DEFAULT_MYSQL_PORT     = "3306"
+	DEFAULT_MYSQL_HOST     = "192.168.2.5"
+	DEFAULT_MYSQL_PORT     = "3307"
 )
 
 func initMysql() {
