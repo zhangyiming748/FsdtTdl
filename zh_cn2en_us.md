@@ -41,6 +41,7 @@
 |Aerith Gainsborough|爱丽丝;Aerith;alice|
 |Anabella Rosfield|安娜贝拉·罗兹菲尔德;安娜贝拉|
 |Jessie Rasberry|Jessie;jessie;杰西|
+|Yuffie Kisaragi|尤菲|
 
 # 铁拳
 
